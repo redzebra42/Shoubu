@@ -1,0 +1,14 @@
+/home/tristan/C#/Go/bin/Debug/net8.0/Go
+/home/tristan/C#/Go/bin/Debug/net8.0/Go.deps.json
+/home/tristan/C#/Go/bin/Debug/net8.0/Go.runtimeconfig.json
+/home/tristan/C#/Go/bin/Debug/net8.0/Go.dll
+/home/tristan/C#/Go/bin/Debug/net8.0/Go.pdb
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.GeneratedMSBuildEditorConfig.editorconfig
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.AssemblyInfoInputs.cache
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.AssemblyInfo.cs
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.csproj.CoreCompileInputs.cache
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.dll
+/home/tristan/C#/Go/obj/Debug/net8.0/refint/Go.dll
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.pdb
+/home/tristan/C#/Go/obj/Debug/net8.0/Go.genruntimeconfig.cache
+/home/tristan/C#/Go/obj/Debug/net8.0/ref/Go.dll
